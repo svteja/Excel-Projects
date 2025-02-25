@@ -9,7 +9,7 @@ Includes the dataset used for Analysis and Creating the dashboards.
 Visuals of key data insights and dashboards.
 
 ## 📊 Projects
-### 1. Products Sales Analysis()
+### 1. Products Sales Analysis(Productsalesanalysis/)
 ### 📌 Project Overview
 Excel dashboards focus on sales performance analysis across different dimensions like products, locations, months, and sales persons.
 ### 1)Pivot Tables & Pivot Charts
