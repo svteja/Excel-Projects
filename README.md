@@ -31,3 +31,41 @@ Line Charts – Represent monthly sales variations.
 ### 4)Conditional Formatting 🎨
 
 Highlights key metrics such as highest and lowest sales, best-selling products, and top-performing sales reps.
+##
+### 2. [✈️  Flight Booking Performance Dashboard](Flightbookinganalysis/)
+### 📌 Project Overview
+## 🔑 Key Features
+
+#### 1) Pivot Tables & Pivot Charts
+
+Summarize and visualize Net Revenue by Airline & Class.
+
+Show Top 5 Profitable Routes combining Origin–Destination.
+
+Display Cancellation Rate by Airline for operational insights.
+
+#### 2) Interactive Slicers & Filters
+
+Filter by Airline, Year, and Origin City to view targeted results.
+
+Dynamic data exploration for quick insights.
+
+#### 3) Visual Storytelling (Charts & Graphs)
+
+📊 Bar/Column Charts → Airline revenue distribution & cancellation analysis.
+
+🥧 Pie Chart → Payment mode preferences.
+
+📈 Line Chart → Monthly passenger growth trends.
+
+📑 Stacked Charts → Revenue comparison across classes.
+
+#### 4) Key Business KPIs
+
+Total Revenue: ₹4,29,33,673.69
+
+Average Ticket Price: ₹8,192.03
+
+Average Customer Rating: 3.01
+
+Total Passengers: 6,000
